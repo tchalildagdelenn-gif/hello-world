@@ -1,1 +1,1 @@
-# hello-world
+Merhaba,bu benim ilk github projem!
